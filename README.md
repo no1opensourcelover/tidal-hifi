@@ -65,11 +65,12 @@ trizen tidal-hifi
 
 To install and work with the code on this project follow these steps:
 
-- git clone [https://github.com/Mastermindzh/tidal-hifi.git](https://github.com/Mastermindzh/tidal-hifi.git)
-- cd tidal-hifi
-- npm install
-- npm start
-
+```sh
+git clone [https://github.com/Mastermindzh/tidal-hifi.git](https://github.com/Mastermindzh/tidal-hifi.git)
+cd tidal-hifi
+npm install
+npm start
+```
 ## features
 
 - HiFi playback
